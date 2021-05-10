@@ -1,0 +1,8 @@
+5 Baboons started going left across the rope.
+5 Baboons (from right side) made it across safely!!
+3 Baboons started going left across the rope.
+3 Baboons (from right side) made it across safely!!
+1 Baboons started going left across the rope.
+1 Baboons (from right side) made it across safely!!
+1 Baboons started going left across the rope.
+1 Baboons (from right side) made it across safely!!
