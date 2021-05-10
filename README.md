@@ -1,7 +1,6 @@
 # deadlockPuzzles
-## Clarkson University
+### Clarkson University
 ### CS444 - Operating Systems
 ### Final Project
-# 
-#### Description:
+# Description:
 test text
