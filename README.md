@@ -1,7 +1,6 @@
 # Deadlock Puzzles
 ### Clarkson University
 ### CS444 - Operating Systems
-### Final Project
 ## 
 # Description:
 ## Dining Philosophers:
