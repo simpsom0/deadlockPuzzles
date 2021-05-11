@@ -8,9 +8,13 @@ Included in this repo are two main folders. They have .c files, executables and 
 These contain the respective code base of each synchronization puzzle.
 #### executable:
 Compiled using:
+
     gcc -g -o executable filename.c
+
 (-g flag is optional, only used for debugging)
+
     ./executable
+
 will run it.
 #### output folder:
 
