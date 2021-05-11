@@ -1,7 +1,7 @@
 # Deadlock Puzzles
 ### Clarkson University
 ### CS444 - Operating Systems
-## 
+### 
 # Description:
 ## Dining Philosophers:
 A well known synchronization problem where N philosophers sit around a table, each with a plate of noodles, and N chopsticks spread out evenly. Each philosopher goes through the routine of thinking, grabbing chopsticks, eating, then finally putting said chopsticks down and returning to thinking. Deadlock is easily reached if you're not careful while coding this. Consider the situation where every philosopher decides to eat at the same time - first they all grab the chopstick to the right of them, then reach for the one on their left, but it isn't there. Each philosopher is in a state of deadlock, since in order to eat, they all need two chopsticks. Yet since each philosopher is holding one chopstick and waiting on the one to their right, no one can eat, and therefore no one can put a chopstick back down. 
